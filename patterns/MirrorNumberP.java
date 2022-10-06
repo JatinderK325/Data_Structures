@@ -32,11 +32,11 @@ public class MirrorNumberP {
                 Start++;
                 j++;
             }
-            int spaces = 1;
-            while (spaces <= n - i) {
-                System.out.print(" ");
-                spaces++;
-            }
+            // int spaces = 1;
+            // while (spaces <= n - i) {
+            //     System.out.print(" ");
+            //     spaces++;
+            // }
             System.out.println();
             i++;
         }
