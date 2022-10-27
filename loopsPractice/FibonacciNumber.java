@@ -8,6 +8,7 @@ public class FibonacciNumber {
             return n;
         return fib(n - 1) + fib(n - 2);
     }
+    // int c = a+b;
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
